@@ -1,0 +1,21 @@
+body {
+  background-color:#ffffff;
+  color: blue;
+  font-family: "ABeeZee", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+img {
+  width: 300px;
+  height: 175px;
+}
+
+.logos {
+  width: 30px;
+  height: 20px;
+}
+
+ul {
+  color: red;
+}
