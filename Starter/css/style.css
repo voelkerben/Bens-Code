@@ -19,3 +19,14 @@ img {
 ul {
   color: red;
 }
+
+table, th, td {
+  border: 1px solid;
+  border-color: red;
+  text-align: center;
+}
+
+iframe {
+  float: right;
+  margin: 10px;
+}
