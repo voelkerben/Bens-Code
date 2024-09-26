@@ -1,0 +1,58 @@
+
+.contentContain {
+	width:1200px;
+	padding:0;
+	margin-top:20px;
+	margin-right:20px;
+}
+
+p {
+font-family: serif;
+font-size:1.1rem;
+line-height:1.5rem;
+}
+
+a:link {color:#ff0000;
+	text-decoration:none;
+}
+
+h1 {
+font-family: 'Anton', sans-serif;
+font-size:2.1rem;
+margin-top: 10px;
+}
+
+h2 {
+font-family: 'Anton', sans-serif;
+font-size:1.5rem;
+}
+
+
+.subhead {
+background-color:#f4f4f4;
+}
+
+.photoRight {
+float:right;
+border:solid 1px #999;
+padding:3px;
+margin:20px 0 20px 20px;
+font-size:.75rem;
+font-family: serif;
+}
+
+.footerStyle {
+text-align:center;
+background-color:#000;
+padding:20px;
+color:#fff;
+font-size:1.1rem;
+font-family: serif;
+}
+
+.citation {
+	border:solid 1px #000;
+	padding:10px;
+	border-radius:10px;
+}
+
