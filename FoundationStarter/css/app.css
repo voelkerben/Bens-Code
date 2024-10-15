@@ -1,0 +1,68 @@
+.box1{
+    background-color: navy;
+}
+.box2{
+    background-color: white;
+}
+.box3{
+    background-color: green;
+}
+.box4{
+    background-color: orange;
+}
+.box5{
+    background-color: blue;
+}
+.box6{
+    background-color: gold;
+}
+.box7{
+    background-color: black;
+    color: white;
+}
+.box8{
+    background-color: red;
+}
+.box9{
+    background-color: silver;
+}
+.box10{
+    background-color: navajowhite;
+}
+.box11{
+    background-color: honeydew;
+}
+.box12{
+    background-color: purple;
+}
+.box13{
+    background-color: saddlebrown;
+}
+.box14{
+    background-color: forestgreen;
+}
+.box15{
+    background-color: oldlace;
+}
+.box16{
+    background-color: burlywood;
+}
+.box17{
+    background-color: yellow;
+}
+
+.headerBox{
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+}
+.bodyCopy{
+    background-color: #f4f4f4;
+}
+.sidebar{
+    background-color: #ff0000;
+    color: #fff;
+}
+.rounded{
+    border-radius: 20px;
+}
