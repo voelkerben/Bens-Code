@@ -1,0 +1,37 @@
+body {
+font-family: "Raleway", sans-serif;
+font-optical-sizing: auto;
+font-weight: 300;
+font-style: normal;
+}
+
+a {
+	color:#2568ff;
+	font-weight: bold;
+}
+
+
+.headline {
+background-color:#6f6a64;
+color:#fff;
+font-family: "Oswald", sans-serif;
+font-optical-sizing: auto;
+font-weight: 900;
+font-style: normal;
+padding:50px 0 50px 0;
+text-align:center;
+}
+
+.bodySpace {
+	margin-top:50px;
+}
+
+.trackList {
+	color:#333;
+}
+
+.footer {
+	background-color:#e8c813;
+	color:#333;
+
+}
