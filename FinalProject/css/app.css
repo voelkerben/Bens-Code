@@ -1,0 +1,70 @@
+h4{
+    text-align: center;
+}
+
+.header{
+    background-color: red;
+    color: white;
+    text-align: center;
+    margin: 0 0 10px 0;
+}
+
+.subhead{
+    background-color: yellow;
+    color: black;
+    text-align: center;
+    margin: 0 0 10px 0;
+}
+
+.text{
+    color: black;
+    background-color: white;
+    padding: 0 0 0 10px;
+}
+
+img{
+    width: 100%;
+    text-align: center;
+    padding: 0 0 10px 10px;
+}
+
+.leftcolumn{
+    padding: 10px;
+    width: 100%;
+    background-color: red;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.method{
+    padding: 0 10px 0 10px;
+    width: 100%;
+    text-align: left;
+    color: black;
+    justify-content: center;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+}
+
+.rightcolumn{
+    padding: 10px;
+    width: 100%;
+    background-color: yellow;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.results{
+    padding: 0 10px 0 10px;
+    width: 100%;
+    text-align: left;
+    color: black;
+    justify-content: center;
+}
+
+.chart{
+    padding: 10px;
+    background-color: black;
+}
